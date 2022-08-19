@@ -3,8 +3,9 @@
   height: 50vh;
   padding: 10px;
   display: flex;
-  align-items: flex-start;
+  align-items: baseline;
   justify-content: space-around;
+
 }
 
 .flex>div{
